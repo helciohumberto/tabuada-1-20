@@ -52,3 +52,6 @@ select {
 ::-webkit-scrollbar-thumb {
   background-color: #00FF00;
 }
+select:focus, #txtn:focus {
+  outline: 0.15rem solid #00FF00;
+}
